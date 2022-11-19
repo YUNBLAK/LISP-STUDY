@@ -10,3 +10,4 @@ Installation Command for M1 Apple Silicon
     
 You can easily install the Steel Bank LISP
 
+    (defpackage :km (:use :common-lisp))
